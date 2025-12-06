@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm a Junior Data Analyst
-
+---
 Welcome to my GitHub! I'm a passionate data analyst with expertise in SQL, Python, and business intelligence tools. I'm continuously expanding my skillset by exploring data engineering techniques.
 
 
@@ -29,11 +29,6 @@ Welcome to my GitHub! I'm a passionate data analyst with expertise in SQL, Pytho
   <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> 
 </p>
 
-## 🚀 Currently Learning
-
-- **dbt** - Understanding data transformation and modeling best practices
-- **Apache Airflow** - Learning workflow orchestration and scheduling
-- **Apache Spark** - Exploring distributed data processing
 
 ## 📊 GitHub Stats
 
@@ -41,6 +36,12 @@ Welcome to my GitHub! I'm a passionate data analyst with expertise in SQL, Pytho
   <img src="https://streak-stats.demolab.com?user=RayenHasni&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+## 🚀 Currently Learning
+
+- **dbt** - Understanding data transformation and modeling best practices
+- **Apache Airflow** - Learning workflow orchestration and scheduling
+- **Apache Spark** - Exploring distributed data processing
 ---
 
 *"Data tells stories. I analyze them, visualize them, and build the infrastructure to scale them."*
