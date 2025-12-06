@@ -2,6 +2,11 @@
 
 Welcome to my GitHub! I'm a passionate data analyst with expertise in SQL, Python, and business intelligence tools. I'm continuously expanding my skillset by exploring data engineering techniques.
 
+<p align="left">
+<a href="https://linkedin.com/in/https://linkedin.com/in/rayen-hasni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/rayen-hasni" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ovJb8h1euP/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ovJb8h1euP/" height="30" width="40" /></a>
+</p>
+
 ## 🎯 What I Do
 
 - **Data Extraction & Transformation**: SQL Server, complex queries, and ETL processes
@@ -19,17 +24,9 @@ Welcome to my GitHub! I'm a passionate data analyst with expertise in SQL, Pytho
 - **Apache Airflow** - Learning workflow orchestration and scheduling
 - **Apache Spark** - Exploring distributed data processing
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RayenHasni&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-## 🤝 Let's Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/rayen-hasni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/rayen-hasni" height="30" width="40" /></a>
-<a href="https://leetcode.com/https://leetcode.com/u/ovJb8h1euP/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ovJb8h1euP/" height="30" width="40" /></a>
-</p>
 
 ---
 
