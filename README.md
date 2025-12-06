@@ -8,8 +8,6 @@ Welcome to my GitHub! I'm a passionate data analyst with expertise in SQL, Pytho
 - **Business Intelligence & Dashboards**: Interactive visualizations in Power BI, Tableau, and Excel
 - **Statistical Analysis**: Python and R for exploratory data analysis and insights
 - **Data Warehouse Design**: Building medallion architecture (Bronze, Silver, Gold layers) on SQL Server
-- **Sentiment Analysis**: Natural Language Processing to understand customer feedback
-- **Data Engineering Exploration**: Learning dbt, Apache Airflow, and Spark to enhance technical depth
 
 ## 🛠️ Technical Skills
 
@@ -17,11 +15,9 @@ Welcome to my GitHub! I'm a passionate data analyst with expertise in SQL, Pytho
 
 ## 🚀 Currently Learning
 
-Currently exploring data engineering concepts to enhance my technical depth:
 - **dbt** - Understanding data transformation and modeling best practices
 - **Apache Airflow** - Learning workflow orchestration and scheduling
 - **Apache Spark** - Exploring distributed data processing
-- Cloud analytics platforms (AWS, Azure, Google Cloud)
 
 ## 📊 GitHub Stats
 
