@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm a Junior Data Analyst
----
+
 Welcome to my GitHub! I'm a passionate data analyst with expertise in SQL, Python, and business intelligence tools. I'm continuously expanding my skillset by exploring data engineering techniques.
 
 
